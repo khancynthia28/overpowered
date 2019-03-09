@@ -6,6 +6,7 @@
 - Noah Yasarturk
 
 ## Platforms:
-- Python 3.6
-- MATLAB2018
+- PHP 5.4
+- MySQL 8.0
+- 
 
